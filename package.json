@@ -1,0 +1,11 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "todo App to ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC"
+}
